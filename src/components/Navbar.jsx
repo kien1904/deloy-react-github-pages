@@ -22,13 +22,14 @@ const Navbar = () => {
     
     history.push('/login')
   }
+  const url = 'assets/images/logo.webp';
   const products=useSelector(cartSelector)
   return (
     <div className="container">
       <Row className="navbar">
         <Col xs={4} md={4} sm={4} lg={4}>
           <div className="nav-logo">
-            <Link to="/"><img src={require('../assets/images/logo.webp').default} alt="" /></Link>
+            <Link to="/"><img src={require('../' + url).default} alt="" /></Link>
           </div>
         </Col>
         <Col xs={12} md={14} sm={12} lg={16}>

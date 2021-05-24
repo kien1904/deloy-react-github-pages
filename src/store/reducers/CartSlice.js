@@ -1,4 +1,4 @@
-import {createSlice} from '@reduxjs/toolkit'
+import {createSlice, current} from '@reduxjs/toolkit'
 const cartSlice=createSlice({
     name:'cart',
     initialState:{
@@ -9,10 +9,13 @@ const cartSlice=createSlice({
     reducers:{
         AddToCart:(state,action)=>{
             const {id,product,quantity}=action.payload
-            //check xem da co trong gio hang chua
-            const check=state.products.find(pro=>pro.id===id)
+           
+           
+            const check=state.products.find(pros=>pros.id===parseInt(id))
             if(check){
-                return state
+                return {
+                    ...state
+                }
             }
             else{
                 const TPrice=state.totalPrice+product.discountPrice*quantity

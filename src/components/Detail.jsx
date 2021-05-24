@@ -11,10 +11,10 @@ import {Link} from 'react-router-dom'
 const Detail = () => {
     const dispatch=useDispatch()
     const {id}=useParams()
-    console.log(id)
+    
     useEffect(()=>{
         dispatch(getDataById(id))
-        console.log(1213)
+        
     },[id]) 
    const AddCart=(value)=>{
        dispatch(AddToCart(value))
