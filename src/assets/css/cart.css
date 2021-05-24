@@ -1,0 +1,84 @@
+.cart{
+    margin-top: 100px;
+}
+.cart-heading{
+    width: 90vw;
+    margin: 0 auto;
+}
+.cart-title{
+    display: flex;
+    font-size: 16px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    background-color: cadetblue;
+    padding: 12px 0;
+}
+.cart-detail{
+    margin-top: 18px;
+    text-align: center;
+    font-size: 20px;
+}
+.cart-image img{
+    width: 150px;
+    height: 100px;
+    object-fit: contain;
+
+}
+.text-center{
+    padding-top: 20px;
+}
+.cart-quantity{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+}
+.Cplus,.Cresult,.Cminus{
+    display: flex;
+    width: 33px;
+    height: 33px;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+}
+.Cplus,.Cminus{
+    cursor: pointer;
+}
+.remove{
+    cursor: pointer;
+}
+
+.summary{
+    background-color: lightseagreen;
+    padding-top: 15px;
+    text-align: center;
+}
+.checkout{
+    padding-left: 20px;
+    
+    
+}
+.text{
+    font-size: 17px;
+    font-weight: 300;
+}
+.price-total{
+    font-size: 22px;
+    font-weight: 400;
+}
+.btn-check{
+    margin-top: 10px;
+    width: 100%;
+    background-color: palegreen;
+    text-transform: uppercase;
+    
+}
+.btn-check:hover{
+    background-color: seagreen;
+    color: white;
+}
+.check-color{
+    background-color: azure;
+
+}
