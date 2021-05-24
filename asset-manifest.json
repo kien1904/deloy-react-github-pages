@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/deloy-react-github-pages/static/css/main.58ea4508.chunk.css",
+    "main.js": "/deloy-react-github-pages/static/js/main.3d9c61ed.chunk.js",
+    "main.js.map": "/deloy-react-github-pages/static/js/main.3d9c61ed.chunk.js.map",
+    "runtime-main.js": "/deloy-react-github-pages/static/js/runtime-main.98f696b5.js",
+    "runtime-main.js.map": "/deloy-react-github-pages/static/js/runtime-main.98f696b5.js.map",
+    "static/css/2.00bb4513.chunk.css": "/deloy-react-github-pages/static/css/2.00bb4513.chunk.css",
+    "static/js/2.36b1c991.chunk.js": "/deloy-react-github-pages/static/js/2.36b1c991.chunk.js",
+    "static/js/2.36b1c991.chunk.js.map": "/deloy-react-github-pages/static/js/2.36b1c991.chunk.js.map",
+    "index.html": "/deloy-react-github-pages/index.html",
+    "static/css/2.00bb4513.chunk.css.map": "/deloy-react-github-pages/static/css/2.00bb4513.chunk.css.map",
+    "static/css/main.58ea4508.chunk.css.map": "/deloy-react-github-pages/static/css/main.58ea4508.chunk.css.map",
+    "static/js/2.36b1c991.chunk.js.LICENSE.txt": "/deloy-react-github-pages/static/js/2.36b1c991.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/deloy-react-github-pages/static/media/banner.380a65bb.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98f696b5.js",
+    "static/css/2.00bb4513.chunk.css",
+    "static/js/2.36b1c991.chunk.js",
+    "static/css/main.58ea4508.chunk.css",
+    "static/js/main.3d9c61ed.chunk.js"
+  ]
+}
