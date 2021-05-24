@@ -1,24 +1,34 @@
 {
   "files": {
-    "main.css": "/deloy-react-github-pages/static/css/main.58ea4508.chunk.css",
-    "main.js": "/deloy-react-github-pages/static/js/main.3d9c61ed.chunk.js",
-    "main.js.map": "/deloy-react-github-pages/static/js/main.3d9c61ed.chunk.js.map",
+    "main.css": "/deloy-react-github-pages/static/css/main.ec91d302.chunk.css",
+    "main.js": "/deloy-react-github-pages/static/js/main.4c00db51.chunk.js",
+    "main.js.map": "/deloy-react-github-pages/static/js/main.4c00db51.chunk.js.map",
     "runtime-main.js": "/deloy-react-github-pages/static/js/runtime-main.98f696b5.js",
     "runtime-main.js.map": "/deloy-react-github-pages/static/js/runtime-main.98f696b5.js.map",
     "static/css/2.00bb4513.chunk.css": "/deloy-react-github-pages/static/css/2.00bb4513.chunk.css",
-    "static/js/2.36b1c991.chunk.js": "/deloy-react-github-pages/static/js/2.36b1c991.chunk.js",
-    "static/js/2.36b1c991.chunk.js.map": "/deloy-react-github-pages/static/js/2.36b1c991.chunk.js.map",
+    "static/js/2.078dfd52.chunk.js": "/deloy-react-github-pages/static/js/2.078dfd52.chunk.js",
+    "static/js/2.078dfd52.chunk.js.map": "/deloy-react-github-pages/static/js/2.078dfd52.chunk.js.map",
     "index.html": "/deloy-react-github-pages/index.html",
     "static/css/2.00bb4513.chunk.css.map": "/deloy-react-github-pages/static/css/2.00bb4513.chunk.css.map",
-    "static/css/main.58ea4508.chunk.css.map": "/deloy-react-github-pages/static/css/main.58ea4508.chunk.css.map",
-    "static/js/2.36b1c991.chunk.js.LICENSE.txt": "/deloy-react-github-pages/static/js/2.36b1c991.chunk.js.LICENSE.txt",
-    "static/media/home.css": "/deloy-react-github-pages/static/media/banner.380a65bb.webp"
+    "static/css/main.ec91d302.chunk.css.map": "/deloy-react-github-pages/static/css/main.ec91d302.chunk.css.map",
+    "static/js/2.078dfd52.chunk.js.LICENSE.txt": "/deloy-react-github-pages/static/js/2.078dfd52.chunk.js.LICENSE.txt",
+    "static/media/ao1.jpg": "/deloy-react-github-pages/static/media/ao1.4d1f9edf.jpg",
+    "static/media/ao2.jpg": "/deloy-react-github-pages/static/media/ao2.5c15053a.jpg",
+    "static/media/ao3.jpg": "/deloy-react-github-pages/static/media/ao3.0e23fda4.jpg",
+    "static/media/ao5.jpg": "/deloy-react-github-pages/static/media/ao5.709643c7.jpg",
+    "static/media/banner.webp": "/deloy-react-github-pages/static/media/banner.380a65bb.webp",
+    "static/media/giay1.jpg": "/deloy-react-github-pages/static/media/giay1.98363d4d.jpg",
+    "static/media/logo.webp": "/deloy-react-github-pages/static/media/logo.ae7c6a22.webp",
+    "static/media/quan1.jpg": "/deloy-react-github-pages/static/media/quan1.8ba7df6b.jpg",
+    "static/media/quan2.jpg": "/deloy-react-github-pages/static/media/quan2.cc8f7c07.jpg",
+    "static/media/quan3.jpg": "/deloy-react-github-pages/static/media/quan3.f1400192.jpg",
+    "static/media/quan4.jpg": "/deloy-react-github-pages/static/media/quan4.303204fd.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.98f696b5.js",
     "static/css/2.00bb4513.chunk.css",
-    "static/js/2.36b1c991.chunk.js",
-    "static/css/main.58ea4508.chunk.css",
-    "static/js/main.3d9c61ed.chunk.js"
+    "static/js/2.078dfd52.chunk.js",
+    "static/css/main.ec91d302.chunk.css",
+    "static/js/main.4c00db51.chunk.js"
   ]
 }
